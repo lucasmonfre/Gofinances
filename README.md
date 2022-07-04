@@ -2,8 +2,6 @@
 Aplicativo simples para controle financeiro de entrada e saídas com relatório em gráfico.
 ![129372480-32604f38-b9cd-4bce-b3f0-0d56d765cf2a](https://user-images.githubusercontent.com/98346731/165367513-f69f5cb4-a657-4a9c-b365-56a6fbc987cd.png)
 
-Google Credentials (https://console.cloud.google.com/)
-
 
 
 - [Expo Guide Authentication](https://docs.expo.dev/guides/authentication/#google)
