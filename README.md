@@ -3,12 +3,6 @@ Aplicativo simples para controle financeiro de entrada e saídas com relatório 
 ![129372480-32604f38-b9cd-4bce-b3f0-0d56d765cf2a](https://user-images.githubusercontent.com/98346731/165367513-f69f5cb4-a657-4a9c-b365-56a6fbc987cd.png)
 
 
-
-- [Expo Guide Authentication](https://docs.expo.dev/guides/authentication/#google)
-- [Google Credentials](https://console.cloud.google.com/)
-
-
-
 Principais pacotes extra instalados
 - expo-font
 - @expo-google-fonts/poppins
